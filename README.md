@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 - Extracted feature descriptors and explored multiple ML/DL approaches.  
 - Conducted error analysis on deep learning models for performance improvements.  
 
-### 🔹 [Used Car Sale Prices Prediction](https://github.com/junaid00737/used-car-sales-price)
+### 🔹 <u>[Used Car Sale Prices Prediction](https://github.com/junaid00737/used-car-sales-price)</u>
 - Performed Exploratory Data Analysis (EDA) and categorical data encoding.  
 - Engineered features, selected models, and conducted hyperparameter tuning for price prediction.  
 
