@@ -6,15 +6,15 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ## 📈 Data Science / Machine Learning  
 
-### 🔹 Facial Emotion Classification: Conventional ML vs. Deep Learning  
+### Facial Emotion Classification: Conventional ML vs. Deep Learning  
 - Extracted feature descriptors and explored multiple ML/DL approaches.  
 - Conducted error analysis on deep learning models for performance improvements.  
 
-### 🔹 <u>[Used Car Sale Prices Prediction](https://github.com/junaid00737/used-car-sales-price)</u>
+### *[Used Car Sale Prices Prediction](https://github.com/junaid00737/used-car-sales-price)*
 - Performed Exploratory Data Analysis (EDA) and categorical data encoding.  
 - Engineered features, selected models, and conducted hyperparameter tuning for price prediction.  
 
-### 🔹 FMCG Customer Segmentation  
+### FMCG Customer Segmentation  
 - Conducted EDA and applied **K-Means & Agglomerative Clustering**.  
 - Analyzed customer characteristics per cluster to derive business recommendations.  
 
