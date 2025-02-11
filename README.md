@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 - Performed Exploratory Data Analysis (EDA) and categorical data encoding.  
 - Engineered features, selected models, and conducted hyperparameter tuning for price prediction.  
 
-### FMCG Customer Segmentation  
+### *[Customer Segmentation](https://github.com/junaid00737/customer-segmentation)* 
 - Conducted EDA and applied **K-Means & Agglomerative Clustering**.  
 - Analyzed customer characteristics per cluster to derive business recommendations.  
 
