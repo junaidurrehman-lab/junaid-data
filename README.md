@@ -16,18 +16,12 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ### *[Customer Segmentation](https://github.com/junaid00737/customer-segmentation)* 
 - Conducted EDA and applied **K-Means & Agglomerative Clustering**.  
-- Analyzed customer characteristics per cluster to derive business recommendations.  
-
-### 🔹 Predictive Analytics on NSW Housing Data  
-- Performed extensive data cleaning, feature transformation, and analysis of variable relationships.  
-- Applied supervised and unsupervised ML models to predict house prices and identify high-return suburbs.  
+- Analyzed customer characteristics per cluster to derive business recommendations.   
 
 ### 🔹 Customer Churn Prediction for Telco Data  
 - Applied **feature selection techniques** (permutation importance, multicollinearity analysis).  
 - Developed a predictive model achieving **85% sensitivity**, correctly identifying 85% of actual churners.  
 
-### 🔹 Binary Classifier from First Principles  
-- Implemented **logistic regression** with cross-entropy loss and gradient descent.  
 
 ---
 
