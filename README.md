@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ## ⚙️ Data Engineering  
 
-### 🔹 Automation of EMR with Airflow  
+### 🔹 *_[Automation of EMR with Airflow](https://github.com/junaidurrehman-lab/Data-Automation)*
 - Extracted and transformed data using using **AWS (EMR)**.  
 - Scheduled automated queries using **Apache Airflow**.  
 - Created Snowpipe for loading of data into **Snowflake**.
