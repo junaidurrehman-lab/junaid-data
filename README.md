@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 - Conducted EDA and applied **K-Means & Agglomerative Clustering**.  
 - Analyzed customer characteristics per cluster to derive business recommendations.   
 
-### _*[Customer Churn Prediction for Telco Data](https://github.com/junaidurrehman-lab/customer-churn)*  
+### *[Customer Churn Prediction for Telco Data](https://github.com/junaidurrehman-lab/customer-churn)*  
 - Applied **feature selection techniques** (permutation importance, multicollinearity analysis).  
 - Developed a predictive model achieving **85% sensitivity**, correctly identifying 85% of actual churners.  
 
