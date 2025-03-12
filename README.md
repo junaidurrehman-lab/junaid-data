@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ## 📈 Data Science / Machine Learning  
 
-### [Facial Emotion Classification: Conventional ML vs. Deep Learning](https://github.com/junaidurrehman-lab/image-classification)  
+### *[Facial Emotion Classification: Conventional ML vs. Deep Learning](https://github.com/junaidurrehman-lab/image-classification)*  
 - Extracted feature descriptors and explored multiple ML/DL approaches.  
 - Conducted error analysis on deep learning models for performance improvements.  
 
@@ -27,12 +27,12 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ## ⚙️ Data Engineering  
 
-### 🔹 *[Automation of EMR with Airflow](https://github.com/junaidurrehman-lab/Data-Automation)*
+### *[Automation of EMR with Airflow](https://github.com/junaidurrehman-lab/Data-Automation)*
 - Extracted and transformed data using using **AWS (EMR)**.  
 - Scheduled automated queries using **Apache Airflow**.  
 - Created Snowpipe for loading of data into **Snowflake**.
 
-### 🔹 *[End-to-End Data Analytics Pipeline](https://github.com/junaidurrehman-lab/end-to-end-data-engineering)*  
+### *[End-to-End Data Analytics Pipeline](https://github.com/junaidurrehman-lab/end-to-end-data-engineering)*  
 - Extracted Redfin data AWS EC2 console and stored in **S3 buckets**.  
 - Scheduled automated queries using **Apache Airflow**.  
 - Used Snowflake for querying of data.
