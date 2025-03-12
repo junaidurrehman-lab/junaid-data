@@ -27,15 +27,15 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ## ⚙️ Data Engineering  
 
-### 🔹 Automation of EMR with AIrflow  
+### 🔹 Automation of EMR with Airflow  
 - Extracted and transformed data using using **AWS (EMR)**.  
 - Scheduled automated queries using **Apache Airflow**.  
 - Created Snowpipe for loading of data into **Snowflake**.
 
 ### 🔹 End-to-End Data Analytics Pipeline  
-- Queried e-commerce data using **Google Cloud Platform (BigQuery)**.  
+- Extracted Redfin data AWS EC2 console and stored in **S3 buckets**.  
 - Scheduled automated queries using **Apache Airflow**.  
-- Visualized results with **Google Data Studio**.
+- Used Snowflake for querying of data.
 
 ---
 
@@ -51,23 +51,6 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ### 🔹 Tweet Analysis using Neo4j (GraphDB)  
 - Designed a **graph data model** in **Neo4j** for querying Twitter data.  
-
----
-
-## 👨‍💻 Data Analysis  
-
-### 🔹 Sports Voucher Program Analysis in Australia  
-- Evaluated the efficacy of sports voucher programs using statistical methods.  
-
-### 🔹 Cycling Data Analysis  
-- Analyzed cycling data to derive insights on rider behavior and trends.  
-
----
-
-## 📫 Connect With Me  
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-📂 GitHub: [Your GitHub Profile]  
 
 ---
 
