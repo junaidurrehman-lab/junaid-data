@@ -27,10 +27,15 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ## ⚙️ Data Engineering  
 
+### 🔹 Automation of EMR with AIrflow  
+- Extracted and transformed data using using **AWS (EMR)**.  
+- Scheduled automated queries using **Apache Airflow**.  
+- Created Snowpipe for loading of data into **Snowflake**.
+
 ### 🔹 End-to-End Data Analytics Pipeline  
 - Queried e-commerce data using **Google Cloud Platform (BigQuery)**.  
 - Scheduled automated queries using **Apache Airflow**.  
-- Visualized results with **Google Data Studio**.  
+- Visualized results with **Google Data Studio**.
 
 ---
 
