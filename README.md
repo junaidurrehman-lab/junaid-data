@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ## 📈 Data Science / Machine Learning  
 
-### Facial Emotion Classification: Conventional ML vs. Deep Learning  
+### [Facial Emotion Classification: Conventional ML vs. Deep Learning](https://github.com/junaidurrehman-lab/image-classification)  
 - Extracted feature descriptors and explored multiple ML/DL approaches.  
 - Conducted error analysis on deep learning models for performance improvements.  
 
