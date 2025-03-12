@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 - Scheduled automated queries using **Apache Airflow**.  
 - Created Snowpipe for loading of data into **Snowflake**.
 
-### 🔹 End-to-End Data Analytics Pipeline  
+### 🔹 *[End-to-End Data Analytics Pipeline](https://github.com/junaidurrehman-lab/end-to-end-data-engineering)*  
 - Extracted Redfin data AWS EC2 console and stored in **S3 buckets**.  
 - Scheduled automated queries using **Apache Airflow**.  
 - Used Snowflake for querying of data.
