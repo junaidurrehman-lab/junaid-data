@@ -39,19 +39,12 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ---
 
-## ![Data Visualization](https://www.shutterstock.com/image-vector/audit-data-analysis-icon-like-600nw-2481699581.jpg)
- Data Visualization  
+## 📈 Data Visualization
 
-### 🔹 Big Data Tweet Analysis with MongoDB & Hadoop  
-- Connected **MongoDB** with Python to extract keywords from tweets.  
-- Applied **MapReduce** for keyword counting and **MergeSort algorithm** for optimization.  
+### *[Superstore Sales Analysis](https://github.com/junaidurrehman-lab/superstore-visualization)*
+- Performed SQL queries for exploratory analysis and extracting insights from the sales data.
+- Power BI for the interactive reports on sales performance, customer analysis, and product analysis.  
 
-### 🔹 Efficient Big Data Querying with R-Tree  
-- Built an **R-Tree index** from scratch in Python to efficiently query large datasets.  
-- Compared performance to naive querying approaches.  
-
-### 🔹 Tweet Analysis using Neo4j (GraphDB)  
-- Designed a **graph data model** in **Neo4j** for querying Twitter data.  
 
 ---
 
