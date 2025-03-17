@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ---
 
-## 📈 Data Visualization
+## 🎛️ Data Visualization
 
 ### *[Superstore Sales Analysis](https://github.com/junaidurrehman-lab/superstore-visualization)*
 - Performed SQL queries for exploratory analysis and extracting insights from the sales data.
