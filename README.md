@@ -39,7 +39,8 @@ Welcome to my GitHub profile! I'm a Data Analyst with expertise in SQL, Python, 
 
 ---
 
-## 💾 Big Data  
+## ![Data Visualization](https://www.shutterstock.com/image-vector/audit-data-analysis-icon-like-600nw-2481699581.jpg)
+ Data Visualization  
 
 ### 🔹 Big Data Tweet Analysis with MongoDB & Hadoop  
 - Connected **MongoDB** with Python to extract keywords from tweets.  
